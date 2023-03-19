@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619944163600",
+    "project_id": "petronas-india",
+    "storage_bucket": "petronas-india.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619944163600:android:ee1d1f802d1000bc01cd95",
+        "android_client_info": {
+          "package_name": "com.petronasindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619944163600-m64de1f05armtcvek33m4qajqslo6guc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzQT7yjFNAUJIJPMxEbPX4_8DbjRq_uq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619944163600-m64de1f05armtcvek33m4qajqslo6guc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
